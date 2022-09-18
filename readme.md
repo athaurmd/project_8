@@ -5,7 +5,7 @@ The goal of this project is to design a nice web page for advertizing web design
    2 Hours
 
  ## Live link of the project
- [Netlify-link](https://webb-design-homepage.netlify.app/)  
+ [Netlify-link](https://webdesign-landing-site.netlify.app/))  
 
  ### Feedback
 
